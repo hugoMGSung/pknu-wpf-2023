@@ -79,8 +79,12 @@ Windows Presentation Foundation
 		- MahApps.Metro
 		- 데이터포털 OpenAPI
 		- DB 데이터바인딩(MySQL)
-	- 개인 포트폴리오 개발방식
+	- 개인 포트폴리오 개발
 		- 데이터포털 OpenAPI
-		- 네이버, 카카오 OpenAPI
+		- 네이버, 구글, 카카오 OpenAPI
 		- 기타 OpenAPI
+
+9일차 미세먼지확인 앱
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu-wpf-2023/main/images/wpf07.gif" width="700" />
 
